@@ -1,2 +1,1 @@
-# prep-course-henry
-repositorio prueba henrry
+repositorio prueba y clon de github en mi escritorio
